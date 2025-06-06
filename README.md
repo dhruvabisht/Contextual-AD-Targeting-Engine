@@ -75,7 +75,3 @@ src/
    cd dashboard
    npm start
    ```
-
-## Configuration
-
-Configuration files are located in `
